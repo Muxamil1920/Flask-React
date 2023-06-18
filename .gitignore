@@ -1,0 +1,27 @@
+.ipynb_checkpoints
+# Logs
+04_react_frontend/logs
+04_react_frontend/*.log
+04_react_frontend/npm-debug.log*
+04_react_frontend/yarn-debug.log*
+04_react_frontend/yarn-error.log*
+04_react_frontend/pnpm-debug.log*
+04_react_frontend/lerna-debug.log*
+
+04_react_frontend/node_modules
+04_react_frontend/dist
+04_react_frontend/dist-ssr
+04_react_frontend/*.local
+
+02_Prediction_API/__pycache__
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
