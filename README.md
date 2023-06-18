@@ -6,4 +6,4 @@
 4. [React.js Frontend](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/AIOps/2023-06-17-scikit-learn-model-deployment/2023-06-17#reactjs-frontend)
 
 
-![Serving your SciKit Learn Model as a Prediction API](./SciKit_Learn_Model_API_07.gif)
+![Serving your SciKit Learn Model as a Prediction API](https://github.com/mpolinowski/sklearn-model-deployment/blob/master/04_react_frontend/SciKit_Learn_Model_API_07.gif)
