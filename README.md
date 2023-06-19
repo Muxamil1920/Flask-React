@@ -12,7 +12,7 @@
     * Wrap the Flask application in a Docker image
 4. [React.js Frontend](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/AIOps/2023-06-17-scikit-learn-model-deployment/2023-06-17#reactjs-frontend)
     * Write a React.js frontend that can interface with your REST API
-4. [Serve Frontend using the Flask App](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/AIOps/2023-06-17-scikit-learn-model-deployment/2023-06-17)
+4. [Serve Frontend using the Flask App](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/AIOps/2023-06-17-scikit-learn-model-deployment/2023-06-17#adding-the-frontend)
     * Use Vite.js to render the React frontend to static HTML
     * Add a static route to your Flask app to serve the frontend from inside the Docker image
 
